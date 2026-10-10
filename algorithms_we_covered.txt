@@ -1,0 +1,22 @@
+Chapter 1: Arrays
+- Attend as many events as possible
+- Max in Array
+- Two sum (Sort array then two pointer)
+- Binary search
+- Selection sort
+- Merge sort
+Chapter 2: Graphs
+- Undirected vs directed, adjacency matrix vs list
+- Vertexes and edges
+- BFS (O(M + N)
+- DFS
+- Find cycles (DFS and look for back edges)
+- Topological sort
+- Strongly Connected components
+Chapter 3: Greedy
+Chapter 4: Dynamic Programming
+Chapter 5: Shortest Paths
+Chapter 6: Flows and Cuts
+Chapter 7: NP hardness - COMP455
+Chapter 8: Approximation
+Chapter 9: Formal Methods
